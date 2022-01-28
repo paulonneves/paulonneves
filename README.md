@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! eu sou o Paulo Ricardo - Programador e Analista de dados👋
 
 <!--
 **ricardo-dot/ricardo-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+> Sou analista de dados e desenvolvedor de software. Apesar de diferentes, há alguns anos essas duas ocupações me fazem seguir o mesmo propósito: ajudar as pessoas a construir soluções de negócio.
+
+> Como Desenvolvedor atuo programando automações para processos repetitivos e construo pipelines de extração, limpeza e transformação de dados.
+
+> Na função de analista de dados encontro formas de capturar Kpis importantes para resolver metas de negocio e propor visuais intuitivos que auxiliem no trabalho de gestores.
+
+> Também acredito que é importante ser interdisciplinar para levar uma visão de mundo ampla para a fase de elaboração de soluções, também por isso eu me dedico a estudar outras áreas como programação web com Javascript, prototipação com figma, patentes, marcas e modelagem preditiva.
