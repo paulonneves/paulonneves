@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 > Na função de analista de dados encontro formas de capturar Kpis importantes para resolver metas de negocio e propor visuais intuitivos que auxiliem no trabalho de gestores.
 
 > Também acredito que é importante ser interdisciplinar para levar uma visão de mundo ampla para a fase de elaboração de soluções, também por isso eu me dedico a estudar outras áreas como programação web com Javascript, prototipação com figma, patentes, marcas e modelagem preditiva.
+
 ![business _ man, boy, male, presentation, chart, analytics, statistics](https://user-images.githubusercontent.com/48892066/151630098-3de63922-8f3f-4005-aefd-52abfdfc9f35.svg)
