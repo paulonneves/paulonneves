@@ -42,9 +42,7 @@ Here are some ideas to get you started:
 Python<br> <img alt="python-logo" src="https://user-images.githubusercontent.com/48892066/151659391-ef399f09-c111-4ee3-bf84-14eb953f6078.png" class="logo"></img> | SQL <br><img alt="AppDev_sql_detailed" src="https://user-images.githubusercontent.com/48892066/151659466-dc7712ac-843c-45db-8091-54801d46acd4.svg" style="width: 100px; height: 100px;"></img> | R <br><img alt="Rlogo" src="https://user-images.githubusercontent.com/48892066/151659490-7b863236-494e-43bb-95e0-74b495a9c614.png" style="width: 100px; height: 100px;"></img> | 
 --- | --- | --- | 
 Power BI <br><img alt="Power Bi logo" src="https://user-images.githubusercontent.com/48892066/151660316-7620bba2-5324-4299-959d-fb71493348ea.jpg" style="width: 100px"></img> | Airflow <br> <img alt="Airflow logo" src="https://user-images.githubusercontent.com/48892066/151660139-30df222d-4154-48d6-9705-209d7311db78.jpg" style="width: 100px"></img> | Selenium <br> <img alt="Selenium logo" src="https://user-images.githubusercontent.com/48892066/151660152-80343e43-f0da-4bb0-bf64-a5c30b4d233b.png" style="width: 100px"></img>
---- | --- | --- | 
 Pandas <br> <img alt="Pandas logo" src="https://user-images.githubusercontent.com/48892066/151660218-381007a9-673b-4f6f-9187-db58a918c090.jpg" style="width: 100px"></img> | Seaborn <br> <img alt="seaborn logo" src="https://user-images.githubusercontent.com/48892066/151660243-e677ec5f-92f4-4bbd-aaa8-9cab8c946fb3.svg" style="width: 100px"></img> |
---- | --- | --- | 
 
 ![png-transparent-computer-terminal-computer-icons-linux-console-terminal-emulator-linux-logo-desktop-wallpaper-linux](https://user-images.githubusercontent.com/48892066/151660120-b5dcf830-d107-47bf-825c-5a2709496d46.png)
 
