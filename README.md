@@ -35,11 +35,7 @@ Here are some ideas to get you started:
 
 ---
 ### Skills
-<style>
-.logo{
-  width: 100px;
- }
-</style>
+
 
 <img alt="" src="" style="width: 100px"></img>
 
