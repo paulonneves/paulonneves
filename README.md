@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 ---
 ### Skills
 
-
-<img alt="" src="" style="width: 100px"></img>
-
 Python<br> <img alt="python-logo" src="https://user-images.githubusercontent.com/48892066/151659391-ef399f09-c111-4ee3-bf84-14eb953f6078.png" style="width: 100px"></img> | SQL <br><img alt="AppDev_sql_detailed" src="https://user-images.githubusercontent.com/48892066/151659466-dc7712ac-843c-45db-8091-54801d46acd4.svg" style="width: 100px; height: 100px;"></img> | R <br><img alt="Rlogo" src="https://user-images.githubusercontent.com/48892066/151659490-7b863236-494e-43bb-95e0-74b495a9c614.png" style="width: 100px; height: 100px;"></img> | 
 --- | --- | --- | 
 Power BI <br> <img alt="Power Bi logo" src="https://user-images.githubusercontent.com/48892066/151660975-05475d2c-3153-4cb6-9b07-21b5b86ffed0.png" style="width: 100px"></img> | Airflow <br> <img alt="Airflow logo" src="https://user-images.githubusercontent.com/48892066/151660903-df5ad0fb-dd8d-4d16-a98d-cd8e6d8841a6.png" style="width: 100px"></img> | Selenium <br> <img alt="Selenium logo" src="https://user-images.githubusercontent.com/48892066/151660152-80343e43-f0da-4bb0-bf64-a5c30b4d233b.png" style="width: 100px"></img> |
