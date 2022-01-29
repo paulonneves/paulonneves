@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <img alt="" src="" style="width: 100px"></img>
 
-Python<br> <img alt="python-logo" src="https://user-images.githubusercontent.com/48892066/151659391-ef399f09-c111-4ee3-bf84-14eb953f6078.png" style="width: 100px"></img> | <br>SQL <img alt="AppDev_sql_detailed" src="https://user-images.githubusercontent.com/48892066/151659466-dc7712ac-843c-45db-8091-54801d46acd4.svg" style="width: 100px"></img> | <img alt="Rlogo" src="https://user-images.githubusercontent.com/48892066/151659490-7b863236-494e-43bb-95e0-74b495a9c614.png" style="width: 100px"></img> | 
+Python<br> <img alt="python-logo" src="https://user-images.githubusercontent.com/48892066/151659391-ef399f09-c111-4ee3-bf84-14eb953f6078.png" style="width: 100px"></img> | SQL <br><img alt="AppDev_sql_detailed" src="https://user-images.githubusercontent.com/48892066/151659466-dc7712ac-843c-45db-8091-54801d46acd4.svg" style="width: 100px"></img> | R <br><img alt="Rlogo" src="https://user-images.githubusercontent.com/48892066/151659490-7b863236-494e-43bb-95e0-74b495a9c614.png" style="width: 100px"></img> | 
 --- | --- | --- | 
 
 
