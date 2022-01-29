@@ -32,3 +32,11 @@ Here are some ideas to get you started:
 * 🕵️‍♂️ Busca por conhecer as metas (OKRs) da empresa para investigar o comportamento real dos dados.
 
 * 🧑‍💻 Sempre com foco em aprender cada dia mais sobre tecnologia.
+
+---
+### Skills
+
+Python ![python-logo](https://user-images.githubusercontent.com/48892066/151659391-ef399f09-c111-4ee3-bf84-14eb953f6078.png)| SQL ![AppDev_sql_detailed](https://user-images.githubusercontent.com/48892066/151659466-dc7712ac-843c-45db-8091-54801d46acd4.svg) | R ![Rlogo](https://user-images.githubusercontent.com/48892066/151659490-7b863236-494e-43bb-95e0-74b495a9c614.png)| #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |
+---
+
