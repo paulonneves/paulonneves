@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 * 🕵️‍♂️ Busca por conhecer as metas (OKRs) da empresa para investigar o comportamento real dos dados.
 
 * 🧑‍💻 Sempre com foco em aprender cada dia mais sobre tecnologia.
+---
+### Meus Projetos
+
+* [Dashbord interativo das cotações de preço de projetos agrícolas da Bahia](https://github.com/ricardo-dot/Cotacao_seagri_ba)
 
 ---
 ### Skills
