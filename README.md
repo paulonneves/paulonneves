@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 ---
 ### Meus Projetos
 
-* [Dashbord interativo das cotações de preço de projetos agrícolas da Bahia](https://github.com/ricardo-dot/Cotacao_seagri_ba)
+#### [Dashbord interativo das cotações de preço de projetos agrícolas da Bahia](https://github.com/ricardo-dot/Cotacao_seagri_ba)
+* Problema: A Bahia tem uma grande diversidade de produtos agrículas e boa parte das cidades tem sua economia voltada para este segmento. Nota-se que apesar de haverem plataformas públicas de visualização de preços estas não atendem com uma fácil visualização. Foi proposto um painel interativo que o pequeno produtor pudesse observar as alterações de preço e demais dados.
+* Repositório: https://github.com/ricardo-dot/Cotacao_seagri_ba
 
 ---
 ### Skills
