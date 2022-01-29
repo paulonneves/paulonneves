@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 </img>
 
 -🧑‍🏫 Diálogo claro e aberto com diferentes tipos de profissionais.
+
 -🕵️‍♂️ Busca por conhecer as metas (OKRs) da empresa para investigar o comportamento real dos dados.
+
 -🧑‍💻 Sempre com foco em aprender cada dia mais sobre tecnologia.
