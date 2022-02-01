@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 #### [Modelo de similaridade para detecção de plágio em logomarcas(Visão computacional)](https://github.com/ricardo-dot/plagiarism_predictive_model_logos)
 * Problema: A cada dia inumeros processos de registro de marca são submetidos a cada dia e estes empreendedores precisam identificar se sua logomarca está de acordo com os padrões determinados pelo INPI. Este Projeto visa dar suporte a verificação de similaridade entre imagens para que o depositante da marca consiga corrigir o problema evitando que seu pedido seja recusado devido a isso.
+* Repositório: https://github.com/ricardo-dot/plagiarism_predictive_model_logos
 ---
 ### Skills
 
