@@ -38,6 +38,11 @@ Here are some ideas to get you started:
 #### [Dashbord interativo das cotações de preço de projetos agrícolas da Bahia](https://github.com/ricardo-dot/Cotacao_seagri_ba)
 * Problema: A Bahia tem uma grande diversidade de produtos agrículas e boa parte das cidades tem sua economia voltada para este segmento. Nota-se que apesar de haverem plataformas públicas de visualização de preços estas não atendem com uma fácil visualização. Foi proposto um painel interativo que o pequeno produtor pudesse observar as alterações de preço e demais dados.
 * Repositório: https://github.com/ricardo-dot/Cotacao_seagri_ba
+* Skills:
+🕷️ Web Scrapping
+🦉 Programação Funcional
+🎮 Visual interativo
+
 
 #### [Modelo de similaridade para detecção de plágio em logomarcas(Visão computacional)](https://github.com/ricardo-dot/plagiarism_predictive_model_logos)
 * Problema: A cada dia inumeros processos de registro de marca são submetidos a cada dia e estes empreendedores precisam identificar se sua logomarca está de acordo com os padrões determinados pelo INPI. Este Projeto visa dar suporte a verificação de similaridade entre imagens para que o depositante da marca consiga corrigir o problema evitando que seu pedido seja recusado devido a isso.
