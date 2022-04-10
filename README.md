@@ -45,6 +45,12 @@ Here are some ideas to get you started:
 * Repositório: https://github.com/ricardo-dot/plagiarism_predictive_model_logos
 
 
+### Desafios realizados
+#### [1º hackthon DSBR - Dax, Power BI e PostgresSQL](https://github.com/ricardo-dot/hackathon_01_dash)
+* Problema: O desafio será criar o DW de Vendas clássico de Kimball no formato Star Schema no Postges e importá-lo para o Power BI. Posteriormente serão resolvidos um conjunto de consultas na linguagem Data Analysis Expressions (DAX). No final do desafio, essas consultas serão apresentas em um painel no Power BI que deverá considerar a comunicação visual e a experiência do usuário.
+* Repositório: https://github.com/ricardo-dot/hackathon_01_dash
+* Website: https://share.streamlit.io/ricardo-dot/hackathon_01_dash/main/main.py
+
 ---
 ### Skills
 
