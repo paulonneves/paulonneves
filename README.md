@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 -->
 ---
 Profissional generalista interdisciplinar e dedicado a ajudar pessoas a construir soluções de negócio baseadas em dados. 
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/151630098-3de63922-8f3f-4005-aefd-52abfdfc9f35.svg" style="height: 300px">
-</img>
+Focado em:
 
 * 🧑‍🏫 Diálogo claro e aberto com diferentes tipos de profissionais.
 
 * 🕵️‍♂️ Busca por conhecer as metas (OKRs) da empresa para investigar o comportamento real dos dados.
 
 * 🧑‍💻 Sempre com foco em aprender cada dia mais sobre tecnologia.
+
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/151630098-3de63922-8f3f-4005-aefd-52abfdfc9f35.svg" style="height: 300px">
+</img>
 ---
 ### Meus Projetos
 
