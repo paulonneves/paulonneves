@@ -1,4 +1,9 @@
-### Olá! eu sou o Paulo Ricardo - Programador e Analista de dados👋
+### Paulo Ricardo - Programador e Cientista de dados👋
+
+Olá 👋
+Que bom ter você aqui!
+
+Vamos conhecer um pouco sobre min?
 
 <!--
 **ricardo-dot/ricardo-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
