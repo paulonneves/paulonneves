@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
-> Profissional generalista interdisciplinar e dedicado a ajudar pessoas a construir soluções de negócio baseadas em dados. 
-
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/151630098-3de63922-8f3f-4005-aefd-52abfdfc9f35.svg" style="height: 600px">
+Profissional generalista interdisciplinar e dedicado a ajudar pessoas a construir soluções de negócio baseadas em dados. 
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/151630098-3de63922-8f3f-4005-aefd-52abfdfc9f35.svg" style="height: 300px">
 </img>
 
 * 🧑‍🏫 Diálogo claro e aberto com diferentes tipos de profissionais.
