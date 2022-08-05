@@ -52,7 +52,7 @@ Focado em:
 * Repositório: https://github.com/ricardo-dot/hackathon_01_dash
 * Website: https://share.streamlit.io/ricardo-dot/hackathon_01_dash/main/main.py
 
-#### [Dashboard Plataforma Nilo Peçanha - 2º hackthon DSBR - Dax, Power BI e PostgresSQL](https://github.com/ricardotwt/cyberchase_Hackathon_02)
+#### [Dashboard Plataforma Nilo Peçanha - 2º hackthon DSBR - Power BI e Apache Hop](https://github.com/ricardotwt/cyberchase_Hackathon_02)
 * Problema: O desafio será criar montar estrutura Star Schema utilizando Apache Hop e criar um dashboard que retrate os dados referentes a professores e técnicos da Plataforma Nilo Peçanha.
 * Repositório: https://github.com/ricardotwt/cyberchase_Hackathon_02
 * Website: https://app.powerbi.com/view?r=eyJrIjoiNGY0MTRkOGQtOTgxMS00Y2I3LTk0Y2YtN2M0ZmE2ZGNjYWE0IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9&pageName=ReportSection2a2734ba03c45e61913f
