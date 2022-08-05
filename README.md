@@ -1,4 +1,4 @@
-### Paulo Ricardo - Programador e Cientista de dados👋
+### Paulo Ricardo - Programador e Cientista de dados
 
 Olá 👋
 Que bom ter você aqui!
