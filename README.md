@@ -26,6 +26,7 @@ Focado em:
 
 <img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/151630098-3de63922-8f3f-4005-aefd-52abfdfc9f35.svg" style="height: 300px">
 </img>
+
 ---
 
 ### Meus Projetos
