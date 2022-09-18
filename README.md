@@ -32,6 +32,9 @@ Focado em:
 * Problema: A partir de um dataset kaggle analisar o perfil das descriçṍes dos filmes verificando a frequência de palavras e outras caracter
 * Repositório: https://github.com/ricardotwt/exploratory-analysis-movies-br
 
+#### [Correção de categorias usando a distância de Levenshtein](https://github.com/paulonneves/levenshtein-groupby-keyvalue/blob/main/main.ipynb)
+* Problema: Corrigir categorias de uma tabela fato a partir de chaves
+* Repositório: https://github.com/ricardotwt/exploratory-analysis-movies-br
 
 ### Desafios realizados
 
