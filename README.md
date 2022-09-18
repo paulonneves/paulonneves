@@ -29,11 +29,11 @@ Focado em:
 * Repositório: https://github.com/ricardo-dot/plagiarism_predictive_model_logos
 
 #### [Análise exploratória de filmes brasileiros da Netflix](https://github.com/ricardotwt/exploratory-analysis-movies-br)
-* Problema: A partir de um dataset kaggle analisar o perfil das descriçṍes dos filmes verificando a frequência de palavras e outras caracter
+* Problema: A partir de um dataset kaggle analisar o perfil das descriçṍes dos filmes verificando a frequência de palavras e outras caracter.
 * Repositório: https://github.com/ricardotwt/exploratory-analysis-movies-br
 
 #### [Correção de categorias usando a distância de Levenshtein](https://github.com/paulonneves/levenshtein-groupby-keyvalue/blob/main/main.ipynb)
-* Problema: Corrigir categorias de uma tabela fato a partir de chaves
+* Problema: Corrigir categorias de uma tabela fato a partir de chaves.
 * Repositório: https://github.com/ricardotwt/exploratory-analysis-movies-br
 
 ### Desafios realizados
