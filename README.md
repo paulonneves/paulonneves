@@ -3,21 +3,12 @@
 Olá 👋
 Que bom ter você aqui!
 
-Profissional generalista interdisciplinar e dedicado a ajudar pessoas a construir soluções de negócio baseadas em dados. 
-Focado em:
-
-* 🧑‍🏫 Diálogo claro e aberto com diferentes tipos de profissionais.
-
-* 🕵️‍♂️ Busca por conhecer as metas (OKRs) da empresa para investigar o comportamento real dos dados.
-
-* 🧑‍💻 Sempre com foco em aprender cada dia mais sobre tecnologia.
-
 <img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/151630098-3de63922-8f3f-4005-aefd-52abfdfc9f35.svg" style="height: 300px">
 </img>
 
 ---
 
-### Meus Projetos
+### Conheça Meus Projetos
 
 #### [Dashbord interativo das cotações de preço de projetos agrícolas da Bahia](https://github.com/ricardo-dot/Cotacao_seagri_ba)
 * Problema: A Bahia tem uma grande diversidade de produtos agrículas e boa parte das cidades tem sua economia voltada para este segmento. Nota-se que apesar de haverem plataformas públicas de visualização de preços estas não atendem com uma fácil visualização. Foi proposto um painel interativo que o pequeno produtor pudesse observar as alterações de preço e demais dados.
@@ -36,7 +27,7 @@ Focado em:
 * Problema: Corrigir categorias de uma tabela fato a partir de chaves.
 * Repositório: https://github.com/ricardotwt/exploratory-analysis-movies-br
 
-### Desafios realizados
+### Conheça os Desafios que Realizei
 
 #### [DW Vendas - 1º hackthon DSBR](https://github.com/ricardo-dot/hackathon_01_dash)
 * Problema: O desafio será criar o DW de Vendas clássico de Kimball no formato Star Schema no Postges e importá-lo para o Power BI. Posteriormente serão resolvidos um conjunto de consultas na linguagem Data Analysis Expressions (DAX). No final do desafio, essas consultas serão apresentas em um painel no Power BI que deverá considerar a comunicação visual e a experiência do usuário.
