@@ -3,23 +3,6 @@
 Olá 👋
 Que bom ter você aqui!
 
-Vamos conhecer um pouco sobre min?
-
-<!--
-**ricardo-dot/ricardo-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
 Profissional generalista interdisciplinar e dedicado a ajudar pessoas a construir soluções de negócio baseadas em dados. 
 Focado em:
 
@@ -63,11 +46,3 @@ Focado em:
 * Website: https://app.powerbi.com/view?r=eyJrIjoiNGY0MTRkOGQtOTgxMS00Y2I3LTk0Y2YtN2M0ZmE2ZGNjYWE0IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9&pageName=ReportSection2a2734ba03c45e61913f
 
 ---
-### Skills
-
-Python<br> <img alt="python-logo" src="https://user-images.githubusercontent.com/48892066/151659391-ef399f09-c111-4ee3-bf84-14eb953f6078.png" style="width: 100px"></img> | SQL <br><img alt="AppDev_sql_detailed" src="https://user-images.githubusercontent.com/48892066/151659466-dc7712ac-843c-45db-8091-54801d46acd4.svg" style="width: 100px; height: 100px;"></img> | R <br><img alt="Rlogo" src="https://user-images.githubusercontent.com/48892066/151659490-7b863236-494e-43bb-95e0-74b495a9c614.png" style="width: 100px; height: 100px;"></img> | 
---- | --- | --- | 
-Power BI <br> <img alt="Power Bi logo" src="https://user-images.githubusercontent.com/48892066/151660975-05475d2c-3153-4cb6-9b07-21b5b86ffed0.png" style="width: 100px"></img> | Airflow <br> <img alt="Airflow logo" src="https://user-images.githubusercontent.com/48892066/151660903-df5ad0fb-dd8d-4d16-a98d-cd8e6d8841a6.png" style="width: 100px"></img> | Selenium <br> <img alt="Selenium logo" src="https://user-images.githubusercontent.com/48892066/151660152-80343e43-f0da-4bb0-bf64-a5c30b4d233b.png" style="width: 100px"></img> |
-Pandas <br> <img alt="Pandas logo" src="https://user-images.githubusercontent.com/48892066/151661075-4462571a-83ca-41ea-9265-50525a4167e2.png" style="width: 100px;"></img> | Seaborn <br> <img alt="seaborn logo" src="https://user-images.githubusercontent.com/48892066/151660243-e677ec5f-92f4-4bbd-aaa8-9cab8c946fb3.svg" style="width: 100px; height: 100px"></img> | Django <br> <img alt="Django logo" src="https://user-images.githubusercontent.com/48892066/151660126-ee89445e-b682-4e90-a20e-540612f4f5c6.png" style="width: 100px;"></img> | 
-Requests <br> <img alt="" src="https://user-images.githubusercontent.com/48892066/151660168-e6a2db77-0a3d-4deb-abe8-63d35e953057.png" style="width: 100px"></img> | Regex <br> <img alt="Regex logo" src="https://user-images.githubusercontent.com/48892066/151660358-8ac375db-cd4d-4fa5-a559-ee2ee3847908.jpg" style="width: 100px;"></img>| VueJS <br> <img alt="Vuejs logo" src="https://user-images.githubusercontent.com/48892066/151660344-7c2c55a5-47c6-4ba0-b10e-d1d4619994c5.svg" style="width: 100px; height: 100px;"></img>| 
-
