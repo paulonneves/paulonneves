@@ -8,7 +8,7 @@ Que bom ter você aqui!
 
 ---
 
-### Conheça Meus Projetos
+### Conheça meus projetos
 
 #### [Dashbord interativo das cotações de preço de projetos agrícolas da Bahia](https://github.com/ricardo-dot/Cotacao_seagri_ba)
 * Problema: A Bahia tem uma grande diversidade de produtos agrículas e boa parte das cidades tem sua economia voltada para este segmento. Nota-se que apesar de haverem plataformas públicas de visualização de preços estas não atendem com uma fácil visualização. Foi proposto um painel interativo que o pequeno produtor pudesse observar as alterações de preço e demais dados.
@@ -27,7 +27,7 @@ Que bom ter você aqui!
 * Problema: Corrigir categorias de uma tabela fato a partir de chaves.
 * Repositório: https://github.com/ricardotwt/exploratory-analysis-movies-br
 
-### Conheça os Desafios que Realizei
+### Conheça os desafios que realizei
 
 #### [DW Vendas - 1º hackthon DSBR](https://github.com/ricardo-dot/hackathon_01_dash)
 * Problema: O desafio será criar o DW de Vendas clássico de Kimball no formato Star Schema no Postges e importá-lo para o Power BI. Posteriormente serão resolvidos um conjunto de consultas na linguagem Data Analysis Expressions (DAX). No final do desafio, essas consultas serão apresentas em um painel no Power BI que deverá considerar a comunicação visual e a experiência do usuário.
