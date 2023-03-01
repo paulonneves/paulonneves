@@ -17,7 +17,7 @@ A Bahia tem uma grande diversidade de produtos agrículas e boa parte das cidade
 <img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/148829846-97ef37d6-b437-4254-8c23-ea2845f677c3.gif" style="width: 500px;" >
 </img>
 <br>
-Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTBjZmM0MDktNzJjNy00ZTRmLWIxN2QtMjlhZDEzZTNkMjE3IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9
+Link interativo do Dashboard ➡ https://app.powerbi.com/view?r=eyJrIjoiOTBjZmM0MDktNzJjNy00ZTRmLWIxN2QtMjlhZDEzZTNkMjE3IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9
 
 #### 📝 [Modelo de similaridade para detecção de plágio em logomarcas(Visão computacional)](https://github.com/ricardo-dot/plagiarism_predictive_model_logos)
 A cada dia inumeros processos de registro de marca são submetidos a cada dia e estes empreendedores precisam identificar se sua logomarca está de acordo com os padrões determinados pelo INPI. Este Projeto visa dar suporte a verificação de similaridade entre imagens para que o depositante da marca consiga corrigir o problema evitando que seu pedido seja recusado devido a isso.
@@ -42,10 +42,10 @@ Corrigir categorias de uma tabela fato a partir de chaves.
 
 #### [DW Vendas - 1º hackthon DSBR](https://github.com/ricardo-dot/hackathon_01_dash)
 O desafio será criar o DW de Vendas clássico de Kimball no formato Star Schema no Postges e importá-lo para o Power BI. Posteriormente serão resolvidos um conjunto de consultas na linguagem Data Analysis Expressions (DAX). No final do desafio, essas consultas serão apresentas em um painel no Power BI que deverá considerar a comunicação visual e a experiência do usuário.
-Website: https://share.streamlit.io/ricardo-dot/hackathon_01_dash/main/main.py
+Link interativo do Website ➡ https://share.streamlit.io/ricardo-dot/hackathon_01_dash/main/main.py
 
 #### [Dashboard Plataforma Nilo Peçanha - 2º hackthon DSBR](https://github.com/ricardotwt/cyberchase_Hackathon_02)
 O desafio será criar montar estrutura Star Schema utilizando Apache Hop e criar um dashboard que retrate os dados referentes a professores e técnicos da Plataforma Nilo Peçanha.
-Website: https://app.powerbi.com/view?r=eyJrIjoiNGY0MTRkOGQtOTgxMS00Y2I3LTk0Y2YtN2M0ZmE2ZGNjYWE0IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9&pageName=ReportSection2a2734ba03c45e61913f
+link interativo do Dashboard ➡ https://app.powerbi.com/view?r=eyJrIjoiNGY0MTRkOGQtOTgxMS00Y2I3LTk0Y2YtN2M0ZmE2ZGNjYWE0IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9&pageName=ReportSection2a2734ba03c45e61913f
 
 ---
