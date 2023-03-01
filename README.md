@@ -13,23 +13,23 @@ Que bom ter você aqui!!
 
 #### 🌽 [Dashbord interativo das cotações de preço de projetos agrícolas da Bahia](https://github.com/ricardo-dot/Cotacao_seagri_ba)
 
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/148829846-97ef37d6-b437-4254-8c23-ea2845f677c3.gif" style="width: 300px;" >
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/148829846-97ef37d6-b437-4254-8c23-ea2845f677c3.gif" style="width: 500px;" >
 </img>
 Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTBjZmM0MDktNzJjNy00ZTRmLWIxN2QtMjlhZDEzZTNkMjE3IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9
 
 #### 📝 [Modelo de similaridade para detecção de plágio em logomarcas(Visão computacional)](https://github.com/ricardo-dot/plagiarism_predictive_model_logos)
 A cada dia inumeros processos de registro de marca são submetidos a cada dia e estes empreendedores precisam identificar se sua logomarca está de acordo com os padrões determinados pelo INPI. Este Projeto visa dar suporte a verificação de similaridade entre imagens para que o depositante da marca consiga corrigir o problema evitando que seu pedido seja recusado devido a isso.
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/162629471-e2672ee6-824e-43c4-92c8-7fa42c40dc3f.png" style="width: 300px;" >
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/162629471-e2672ee6-824e-43c4-92c8-7fa42c40dc3f.png" style="width: 500px;" >
 </img>
 
 #### 📽️ [Análise exploratória de filmes brasileiros da Netflix](https://github.com/ricardotwt/exploratory-analysis-movies-br)
 A partir de um dataset kaggle analisar o perfil das descriçṍes dos filmes verificando a frequência de palavras e outras caracter.
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222279125-f5b191de-e2de-4343-82d4-b7a33ec3c1e2.png" style="width: 300px;" >
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222279125-f5b191de-e2de-4343-82d4-b7a33ec3c1e2.png" style="width: 500px;" >
 </img>
 
 #### 📜 [Correção de categorias usando a distância de Levenshtein](https://github.com/paulonneves/levenshtein-groupby-keyvalue/blob/main/main.ipynb)
 Corrigir categorias de uma tabela fato a partir de chaves.
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="" style="width: 300px;" >
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://camo.githubusercontent.com/22c205caab552396c338ccd232f26ca2aea41548210f7d0606e0c69be6748276/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313533353734353132323235392d6631653138373935336334633f69786c69623d72622d312e322e3126697869643d4d6e77784d6a4133664442384d48787a5a574679593268384f4878385a476c7a64474675593256385a5735384d487777664442386641253344253344266175746f3d666f726d6174266669743d63726f7026773d35303026713d3630" style="width: 500px;" >
 </img>
 
 
