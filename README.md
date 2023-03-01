@@ -33,9 +33,8 @@ A partir de um dataset kaggle analisar o perfil das descriçṍes dos filmes ver
 #### 📜 [Correção de categorias usando a distância de Levenshtein](https://github.com/paulonneves/levenshtein-groupby-keyvalue/blob/main/main.ipynb)
 Corrigir categorias de uma tabela fato a partir de chaves.
 <br>
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://camo.githubusercontent.com/22c205caab552396c338ccd232f26ca2aea41548210f7d0606e0c69be6748276/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313533353734353132323235392d6631653138373935336334633f69786c69623d72622d312e322e3126697869643d4d6e77784d6a4133664442384d48787a5a574679593268384f4878385a476c7a64474675593256385a5735384d487777664442386641253344253344266175746f3d666f726d6174266669743d63726f7026773d35303026713d3630" style="width: 500px;" >
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222280621-c6f8f8e9-4d63-4292-a1f4-c9cc60882289.png" style="width: 500px;" >
 </img>
-
 
 
 ### Conheça os desafios que realizei
