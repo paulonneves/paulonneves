@@ -19,6 +19,15 @@ A Bahia tem uma grande diversidade de produtos agrículas e boa parte das cidade
 <br>
 Link interativo do Dashboard ➡ https://app.powerbi.com/view?r=eyJrIjoiOTBjZmM0MDktNzJjNy00ZTRmLWIxN2QtMjlhZDEzZTNkMjE3IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9
 
+#### ⛽ Painel Observatório de Combustíveis ANP
+Painel criado como trabalho final para disciplina de Tópicos em Quimica Inorgânica. Com informações de preço de combustíveis em comparação com o dólar e instalações industriais disponibilizados pela ANP.
+<br>
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222282797-2c1d6dc1-9f95-4df0-b8b6-d9bee6cfdfd2.gif" style="width: 500px;" >
+</img>
+
+Link interativo do Dashboard ➡ https://app.powerbi.com/view?r=eyJrIjoiYTBhODljMDUtMWYzOC00MWRjLWI5ZTEtNTJhZDY4ZDQ2NTcyIiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9&pageName=ReportSection2e7731ee0efce9061cf6
+
+
 #### 📝 [Modelo de similaridade para detecção de plágio em logomarcas(Visão computacional)](https://github.com/ricardo-dot/plagiarism_predictive_model_logos)
 A cada dia inumeros processos de registro de marca são submetidos a cada dia e estes empreendedores precisam identificar se sua logomarca está de acordo com os padrões determinados pelo INPI. Este Projeto visa dar suporte a verificação de similaridade entre imagens para que o depositante da marca consiga corrigir o problema evitando que seu pedido seja recusado devido a isso.
 <br>
