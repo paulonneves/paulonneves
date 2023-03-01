@@ -3,10 +3,8 @@
 Olá 👋
 Que bom ter você aqui!!
 
-[Connection_Lost_-_Dark_](https://user-images.githubusercontent.com/48892066/222276281-28c37426-9086-40c7-a31d-2b397dc0dab4.png)
 
-
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222276281-28c37426-9086-40c7-a31d-2b397dc0dab4.png" >
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222276281-28c37426-9086-40c7-a31d-2b397dc0dab4.png" style="width: 500px;" >
 </img>
 
 ---
