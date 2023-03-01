@@ -16,6 +16,7 @@ A Bahia tem uma grande diversidade de produtos agrículas e boa parte das cidade
 <br>
 <img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/148829846-97ef37d6-b437-4254-8c23-ea2845f677c3.gif" style="width: 500px;" >
 </img>
+<br>
 Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTBjZmM0MDktNzJjNy00ZTRmLWIxN2QtMjlhZDEzZTNkMjE3IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9
 
 #### 📝 [Modelo de similaridade para detecção de plágio em logomarcas(Visão computacional)](https://github.com/ricardo-dot/plagiarism_predictive_model_logos)
