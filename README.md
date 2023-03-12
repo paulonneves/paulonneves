@@ -81,7 +81,10 @@ Automação de coleta de dados das universidades no portal Sucupira.
 
 #### [DW Vendas - 1º hackthon DSBR](https://github.com/ricardo-dot/hackathon_01_dash)
 O desafio será criar o DW de Vendas clássico de Kimball no formato Star Schema no Postges e importá-lo para o Power BI. Posteriormente serão resolvidos um conjunto de consultas na linguagem Data Analysis Expressions (DAX). No final do desafio, essas consultas serão apresentas em um painel no Power BI que deverá considerar a comunicação visual e a experiência do usuário.
+<br>
 [Acesse o Website](https://share.streamlit.io/ricardo-dot/hackathon_01_dash/main/main.py)
+<br>
+![image](https://user-images.githubusercontent.com/48892066/224546741-58c71d74-7341-46cb-b60b-f44bb43fefb4.png)
 
 #### [Dashboard Plataforma Nilo Peçanha - 2º hackthon DSBR](https://github.com/ricardotwt/cyberchase_Hackathon_02)
 O desafio será criar montar estrutura Star Schema utilizando Apache Hop e criar um dashboard que retrate os dados referentes a professores e técnicos da Plataforma Nilo Peçanha.
