@@ -83,6 +83,10 @@ O desafio será criar o DW de Vendas clássico de Kimball no formato Star Schema
 
 #### [Dashboard Plataforma Nilo Peçanha - 2º hackthon DSBR](https://github.com/ricardotwt/cyberchase_Hackathon_02)
 O desafio será criar montar estrutura Star Schema utilizando Apache Hop e criar um dashboard que retrate os dados referentes a professores e técnicos da Plataforma Nilo Peçanha.
+
+![2023-03-12_09-45-00](https://user-images.githubusercontent.com/48892066/224545722-cc277e9c-da7e-48d8-92df-f31c6cf5b2ac.gif)
+
 [Acesse o Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiNGY0MTRkOGQtOTgxMS00Y2I3LTk0Y2YtN2M0ZmE2ZGNjYWE0IiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9&pageName=ReportSection2a2734ba03c45e61913f)
+
 
 ---
