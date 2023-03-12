@@ -22,7 +22,7 @@ A Bahia tem uma grande diversidade de produtos agrículas e boa parte das cidade
 #### ⛽ Painel Observatório de Combustíveis ANP
 Painel criado como trabalho final para disciplina de Tópicos em Quimica Inorgânica. Com informações de preço de combustíveis em comparação com o dólar e instalações industriais disponibilizados pela ANP.
 <br>
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222282797-2c1d6dc1-9f95-4df0-b8b6-d9bee6cfdfd2.gif" >
+<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222282797-2c1d6dc1-9f95-4df0-b8b6-d9bee6cfdfd2.gif"  style="width: 100%;">
 </img>
 
 [Acesse o Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiYTBhODljMDUtMWYzOC00MWRjLWI5ZTEtNTJhZDY4ZDQ2NTcyIiwidCI6ImI5MzA5NDA0LWExNGQtNGVlZS1hNDEyLTEwNmZlMzA4OWUyMCJ9&pageName=ReportSection2e7731ee0efce9061cf6)
