@@ -46,6 +46,34 @@ Corrigir categorias de uma tabela fato a partir de chaves.
 <img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222280621-c6f8f8e9-4d63-4292-a1f4-c9cc60882289.png" style="width: 500px;" >
 </img>
 
+#### 📜 [Scrapping Sucupira](https://github.com/paulonneves/sucupira-scrapping)
+Automação de coleta de dados das universidades no portal Sucupira.
+```
+{
+    "Nome": [
+        "ADMINISTRAÇÃO PÚBLICA EM REDE NACIONAL"
+    ],
+    "Nome do Programa em Inglês": [
+        "PUBLIC ADMINISTRATION IN NATIONAL NETWORK"
+    ],
+    "Área Básica": [
+        "ADMINISTRAÇÃO PÚBLICA (60202009)"
+    ],
+    "Área de Avaliação": [
+        "ADMINISTRAÇÃO PÚBLICA E DE EMPRESAS, CIÊNCIAS CONTÁBEIS E TURISMO"
+    ],
+    "Situação": [
+        "EM FUNCIONAMENTO"
+    ],
+    "Modalidade de Ensino": [
+        "Educação Presencial"
+    ],
+    "Observações": []
+    .
+    .
+    .
+}  
+```
 
 ### Conheça os desafios que realizei
 
