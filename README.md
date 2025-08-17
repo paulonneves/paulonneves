@@ -3,9 +3,7 @@
 Olá 👋
 Que bom ter você aqui!!
 
-
-<img alt="business _ man, boy, male, presentation, chart, analytics, statistics" src="https://user-images.githubusercontent.com/48892066/222276281-28c37426-9086-40c7-a31d-2b397dc0dab4.png" style="width: 500px;" >
-</img>
+<img width="1024" height="1536" alt="file_00000000ca146230bae73c5fe1cb3991" src="https://github.com/user-attachments/assets/77cddb57-1299-47de-8d92-2950f687bb9d" style="max-width:500px"/>
 
 ---
 
